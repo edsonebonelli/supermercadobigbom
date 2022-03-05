@@ -1,0 +1,13 @@
+.rodapeprincipal__container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+    .rodapeprincipal__container {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+}

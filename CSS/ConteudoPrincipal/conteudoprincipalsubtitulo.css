@@ -1,0 +1,9 @@
+.conteudoprincipal__subtitulo {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.conteudoprincipal__subtitulo:hover {
+    font-size: 25px;
+    text-decoration: underline red;
+}

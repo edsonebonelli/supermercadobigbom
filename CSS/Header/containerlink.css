@@ -1,0 +1,12 @@
+.container__link {
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 2px;
+    padding: 2px;
+}
+
+.container__link:hover {
+    font-size: 18px;
+    text-decoration: underline red;
+}

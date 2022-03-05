@@ -1,0 +1,14 @@
+.rodapeprincipal__nav {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 260px;
+}
+
+@media (max-width: 768px) {
+    .rodapeprincipal__nav {
+        display: flex;
+        height: auto;
+        flex-direction: column;
+    }
+}

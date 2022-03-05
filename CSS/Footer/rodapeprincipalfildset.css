@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+    .rodapeprincipal__fildset {
+        display: flex;
+        margin-left: -50px;
+        justify-content: center;
+    }
+}

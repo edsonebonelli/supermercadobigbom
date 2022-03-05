@@ -1,0 +1,15 @@
+.conteudoprincipal__cursoslink {
+    width: 20%;
+    margin-bottom: 1%;
+}
+
+.conteudoprincipal__cursoslink p {
+    color: black;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.conteudoprincipal__cursoslink p:hover {
+    font-size: 20px;
+    text-decoration: underline red;
+}

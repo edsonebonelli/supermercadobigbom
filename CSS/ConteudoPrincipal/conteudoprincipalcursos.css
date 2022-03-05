@@ -1,0 +1,13 @@
+.conteudoprincipal__cursos {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+@media (max-width: 768px) {
+    .conteudoprincipal__cursos {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+}

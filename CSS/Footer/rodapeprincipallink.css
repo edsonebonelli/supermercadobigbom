@@ -1,0 +1,9 @@
+.rodapeprincipal__link {
+    color: black;
+    text-decoration: none;
+}
+
+.rodapeprincipal__link:hover {
+    font-size: 18px;
+    text-decoration: underline red;
+}
