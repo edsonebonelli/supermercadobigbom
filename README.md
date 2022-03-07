@@ -4,11 +4,27 @@
 
 <h1> Oque está sendo trabalhado 🚧 </h1>
 
-<p>Finalizando mais um final de semana de Front-end com a Alura</p>
-
-<p>Agora um projeto com base no Front end UI - trabalhando com layoults responsivos, sabemos que hoje a maior parte dos usuários vem de Mobile ou até mesmo Tablet.</p>
-
-<p>Com isso usei o módulo para desenvolver um site simples de hotel, porem usual a qualquer tipo de aparelho seja mobile, tablet ou até mesmo em telas de maiores dimensões.</p>
+<p>-Usando propriedades do Flex.</p>
+<p>-Comparando as várias formas de posicionamento.</p>
+<p>-Espaçando com Flexbox.</p>
+<p>-Alinhando adquadamente os elementos.</p>
+<p>-Formas de espaçar os elementos.</p>
+<p>-Elementos na Vertical.</p>
+<p>-Elementos na próxima coluna.</p>
+<p>-Espaçando os elementos do Grid.</p>
+<p>-Como espaçar um elemento corretamente no Grid.</p>
+<p>-Flex order.</p>
+<p>-Usando o Flex em um Vídeo.</p>
+<p>-Flex container e Flex items.</p>
+<p>-Propriedades do Flex container e do Flex items.</p>
+<p>-Propriedades do Flex em detalhes.</p>
+<p>-Fazendo os elementos preencherem espaços vazios.</p>
+<p>-Contas no Flex.</p>
+<p>-Mantendo vídeo no mesmo tamanho.</p>
+<p>-Diminuindo proporcialmente os elementos.</p>
+<p>-Diminuindo a largura dos elementos com flex.</p>
+<p>-Condensando flex-grow, shrink e basis.</p>
+<p>-Invertendo a ordem de todos os elementos.</p>
 
 <h1> Técnologia Usada 💻 </h1>
 
